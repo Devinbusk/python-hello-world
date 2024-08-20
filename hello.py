@@ -3,8 +3,7 @@
 # Enter your code on line 7 to print 'Hello, World!'
 # to the console (the panel on the right)
 
-print("Hello");
-
+print('Cant wait for rock climbing season to start so I can climb "Brown Recluse"'), 
 # Next, PLAY!
 # Modify your code on line 7 to try to accomplish the tasks listed below:
 
@@ -17,3 +16,4 @@ print("Hello");
 #   7. Print a message that contains quote marks, such as Quoth the Raven "Nevermore".
 #   8. Other. You choose!
 #
+
